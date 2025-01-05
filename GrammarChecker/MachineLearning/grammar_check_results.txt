@@ -1,0 +1,12 @@
+Sentence: 'அவர் கதையை கேட்டாள்.'
+Predicted Error: 'Pronoun Usage Error'
+Corrected: 'அவர் கதையை கேட்டாள்.'
+
+Sentence: 'அவள் மகனை அழைத்தான்.'
+Predicted Error: 'No Error'
+Corrected: 'அவள் மகனை அழைத்தான்.'
+
+Sentence: 'மாணவர்கள் பாடல்களை பாடினான்.'
+Predicted Error: 'SVO Order Error'
+Corrected: '.்னானிடாப ைளக்லடாப ்ளக்ரவணாம'
+
